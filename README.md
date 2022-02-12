@@ -4,6 +4,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/girlderedes)
 
 ![Bruna de jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunadejesus&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunadejesus)](https://github.com/Brunadejesus/github-readme-stats)
+
 ## Tecnologias que uso no meu dia 
 <div style="display; indeline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -16,6 +19,6 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img align="center" alt="PostgreSQ" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
 </div><br/>
  
-   
